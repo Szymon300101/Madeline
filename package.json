@@ -1,0 +1,13 @@
+{
+	"name": "Madeline",
+	"version": "1.0.0",
+	"description": "That wolsung dice lady",
+	"main": "bot.js",
+	"author": "Szymon Nowacki",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"discord.js": "^12.5.1",
+		"window": "^4.2.7",
+		"winston": "^3.2.1"
+	}
+}
